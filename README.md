@@ -49,6 +49,12 @@ After MySQL starts, enter the following commands -
 
 Once you start server via npm start, you may open the api endpoints via Insomnia to use the POST/ PUT / DELETE/ GET functions in Insomnia
 
-## GITHUB REPO LINK
+### GITHUB REPO LINK
 
-## DEMONSTRATION VIDEO LINK & SCREENCAPS
+[Repository Link](https://github.com/jhdk707/Ecommece-5000)
+
+### DEMONSTRATION VIDEO LINK & SCREENCAPS
+
+![Demo Screen Capture]()
+
+[Walkthrough Video Link]()
