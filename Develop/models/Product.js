@@ -32,10 +32,8 @@ Product.init(
         isNumeric: true,
       },
     },
-    type: DataTypes.INTEGER,
     references: {
-      model: "Category",
-      key: "id",
+      type: DataTypes.STRING, // define the data type for the references field
     },
   },
   {
