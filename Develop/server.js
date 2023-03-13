@@ -16,5 +16,5 @@ sequelize.sync({ force: false }).then(() => {
   const server = app.listen(PORT, () =>
     console.log(`App listening on port ${PORT}!`)
   );
-  server.setTimeout(60000); // sets timeout to 1 minute
+  server.setTimeout(100000); // sets timeout to 100 sec
 });
