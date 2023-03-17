@@ -42,7 +42,7 @@ Accsess the root file of this project using node and initialize MYSQL by enterin
 
 After MySQL starts, enter the following commands -
 
-- `source db/schema.sql`
+- `source db/schema.sql;`
 - `quit`
 - `npm run seed`
 - `npm start`
@@ -55,6 +55,6 @@ Once you start server via npm start, you may open the api endpoints via Insomnia
 
 ### DEMONSTRATION VIDEO LINK & SCREENCAPS
 
-![Demo Screen Capture]()
+![Demo Screen Capture](Assets\Demo Screen Capture.png)
 
-[Walkthrough Video Link]()
+[Walkthrough Video Link](https://drive.google.com/file/d/1ZHyeVoHvBodrq-Nd4-I7lZ-uok_DEE2n/view)
