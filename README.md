@@ -55,6 +55,6 @@ Once you start server via npm start, you may open the api endpoints via Insomnia
 
 ### DEMONSTRATION VIDEO LINK & SCREENCAPS
 
-![Demo Screen Capture](Assets\Demo Screen Capture.png)
+![Demo Screen Capture](Assets/Demo%20Screen%20Capture.png)
 
 [Walkthrough Video Link](https://drive.google.com/file/d/1ZHyeVoHvBodrq-Nd4-I7lZ-uok_DEE2n/view)
